@@ -60,7 +60,7 @@ export default function LandingPage() {
               <p className="text-muted-foreground">Young Coders Trained</p>
             </div>
             <div className="flex flex-col items-center justify-center space-y-2">
-              <h3 className="text-4xl font-bold">500+</h3>
+              <h3 className="text-4xl font-bold">45+</h3>
               <p className="text-muted-foreground">Fun Coding Challenges</p>
             </div>
             <div className="flex flex-col items-center justify-center space-y-2">
