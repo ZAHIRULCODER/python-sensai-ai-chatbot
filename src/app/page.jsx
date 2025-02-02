@@ -10,7 +10,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import { features } from "@/data/features";
-import { howItWorks } from "@/data/howitWorks";
+import { howItWorks } from "@/data/howItWorks";
 import { testimonials } from "@/data/testimonials";
 import { faqs } from "@/data/faqs";
 import HeroSection from "@/components/hero";
