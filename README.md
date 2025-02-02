@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## Add your [gemini api key](https://aistudio.google.com/app/apikey) to the left sidebar bottom
+
 First, run the development server:
 
 ```bash
